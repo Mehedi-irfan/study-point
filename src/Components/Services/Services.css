@@ -1,0 +1,8 @@
+.service-title{
+    letter-spacing: 1.5px;
+    border-bottom: 4px solid teal;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}

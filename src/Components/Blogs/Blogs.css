@@ -1,0 +1,32 @@
+.blog-img{
+    height: 250px;
+    width: 400px;
+}
+.blog-container{
+    box-shadow: 5px 5px 30px lightgray;
+    margin: 20px 0px;
+    padding: 20px 15px;
+    border-radius: 15px;
+    transition: 0.6s ease-in;
+    border: 2px solid transparent;
+}
+.blog-container:hover{
+    box-shadow: none;
+    border: 2px solid teal;
+}
+.btn-read-more{
+    background-color: transparent;
+    border: 2px solid teal;
+    color: teal;
+    padding: 10px 30px;
+    transition: 0.6s ease-in;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin: 10px 0px;
+    border-radius: 5px;
+}
+.btn-read-more:hover{
+    background-color: teal;
+    border: 2px solid teal;
+    color: white;
+}

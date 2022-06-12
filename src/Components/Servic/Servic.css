@@ -1,0 +1,36 @@
+.service-name{
+    background-color: rgb(6, 175, 175);
+    padding: 5px 8px;
+    border-radius: 20px;
+    width: 150px;
+    text-align: center;
+    color: white;
+    margin-left: 15px;
+    margin-top: -15px;
+    box-shadow: 5px 5px 20px rgb(211, 211, 211);
+}
+.sercice-price{
+    position: absolute;
+    background-color: #0b2b44;
+    padding: 5px 25px;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-bottom-right-radius: 20px;
+}
+.enroll-btn{
+    background-color: transparent;
+    border:2px solid rgb(6, 175, 175);
+    color:rgb(6, 175, 175);
+    padding: 8px 50px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    transition: 0.6s ease-in;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.enroll-btn:hover{
+    background-color: rgb(6, 175, 175);
+    border: 2px solid rgb(6, 175, 175);
+    color: white;
+}

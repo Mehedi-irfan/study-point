@@ -1,0 +1,46 @@
+.consiquatur-container{
+    padding: 150px 0px;
+}
+.consiquatur-container img{
+    width: 80%;
+}
+.text-h6{
+    color: rgb(16, 182, 182);
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.carrer-title{
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: 0.8px;
+}
+.btn-read{
+    background-color: transparent;
+    border: 2px solid crimson;
+    color: crimson;
+    border-radius: 5px;
+    padding: 10px 30px;
+    transition: 0.6s ease-in;
+    font-weight: 700;
+    letter-spacing: 0.6px;
+}
+.btn-read:hover{
+    background-color: crimson;
+    color: white !important;
+    border: 2px solid crimson;
+}
+/* course section style */
+.course-title{
+    font-size: 3em;
+    font-weight: bold;
+    letter-spacing: 0.8px;
+}
+/* experiance section style */
+.experiance-container{
+    padding: 150px 0px;
+}
+.experiance-title{
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: 1px;
+}

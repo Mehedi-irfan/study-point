@@ -1,0 +1,13 @@
+.about-title{
+    font-size: 3em;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.count-container{
+    background-color: teal;
+    margin: 100px 0px;
+    color: white;
+    padding: 30px 20px;;
+    border-radius: 30px;
+    box-shadow: 5px 5px 30px lightgray;
+}

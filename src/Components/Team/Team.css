@@ -1,0 +1,12 @@
+.team-icon1 ,.team-icon2, .team-icon3{
+    transition: 0.6s ease-in;
+}
+.team-icon1:hover{
+    color: rgb(41, 41, 226);
+}
+.team-icon2:hover{
+    color: rgb(17, 192, 192);
+}
+.team-icon3:hover{
+    color: crimson;
+}
